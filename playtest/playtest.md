@@ -1,8 +1,8 @@
-# Black Hole Station
+# Good Game
 ## Playtest
 
 ## Play the game
-Play the game prototype [here](prototype/TwineGamePrototype.html)
+Play the game prototype [here](https://darkturbio.github.io/IASC-1P04/prototype/TwineGamePrototype.html)
 
 ## Complete the playtest survey
 
