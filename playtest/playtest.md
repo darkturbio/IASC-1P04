@@ -1,8 +1,8 @@
-# Good Game
+# Don't mess this up
 ## Playtest
 
 ## Play the game
-Play the game prototype [here](https://darkturbio.github.io/IASC-1P04/prototype/TwineGamePrototype.html)
+Play the game prototype [here](https://darkturbio.github.io/IASC-1P04/final_build/Oven%E2%9C%AB.html)
 
 ## Complete the playtest survey
 
