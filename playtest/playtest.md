@@ -2,7 +2,7 @@
 ## Playtest
 
 ## Play the game
-Play the game prototype [here](https://darkturbio.github.io/IASC-1P04/final_build/Oven%E2%9C%AB.html)
+Play the game [here](https://darkturbio.github.io/IASC-1P04/final_build/Oven%E2%9C%AB.html)
 
 ## Complete the playtest survey
 
